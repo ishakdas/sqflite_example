@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sqlite_denemeler.iml" filepath="$PROJECT_DIR$/sqlite_denemeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/sqlite_denemeler_android.iml" filepath="$PROJECT_DIR$/android/sqlite_denemeler_android.iml" />
+    </modules>
+  </component>
+</project>
